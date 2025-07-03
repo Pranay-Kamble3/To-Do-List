@@ -55,7 +55,8 @@ This app supports adding tasks, marking them as complete, deleting them, and aut
 ---
 ## 🌐 Live Preview
 
-Coming soon or host it on GitHub Pages yourself!
+You can directly Access To-Do List here:
+👉 [Live Link]( https://pranay-kamble3.github.io/To-Do-List/)
 
 ---
 
